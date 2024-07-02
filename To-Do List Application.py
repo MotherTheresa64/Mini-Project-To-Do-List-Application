@@ -1,3 +1,7 @@
+# Personal Notes: I know that I need to make it so that my "menu" pops up at each interval but I couldn't figure it out
+# Additionally, I didn't see a reason or way to use a "finally" block since it was relatively okay
+
+
 # Define a Task class to represent individual tasks
 class Task:
     def __init__(self, title):
